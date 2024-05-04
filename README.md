@@ -46,4 +46,4 @@ For walking I added animation notifies in the animation themselves that play the
 Finally for the music I used a cross fade in a single sound cue to switch between the two music tracks when need be.
 
 # Version Control
-We chose GitHub becasue it seemed the easiest to use and people on the team had experience with it. I personally only had limited expierence 
+We chose GitHub becasue it seemed the easiest to use and people on the team had experience with it. I personally only had limited expierence with GitHub but I picked it up fast because of how easy to use it was.
